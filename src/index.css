@@ -1,0 +1,58 @@
+body{
+    font-family:Inter,sans-serif;
+  }
+  nav{
+    padding-left:25px;
+    padding-right:25px;
+    background-color:#21222A;
+   display:flex;
+    justify-content:space-beteen;
+    align-items:center;
+    width:600px;
+    height:91px;
+    
+  }
+  .reactfacts{
+    color:#61DAFB;
+    align-items:left;
+    font-size:25px;
+    font-weight:700;
+  }
+  h2{
+    padding-left:150px;
+    color:#DEEBF8;
+    font-size:23px;
+    font-weight:700;
+  }
+  div{
+    margin:auto;
+    width:650px;
+    height:450px;
+    background-color:#282D35;
+    background-image:url("https://www.valuecoders.com/common/images/reactjs_icon.png");
+   
+    background-repeat:no-repeat;
+    background-position:right bottom;
+    background-size:300px;
+    
+  }
+  .funfacts{
+    margin-left:30px;
+    color:#FFFFFF;
+    font-weight:bold;
+    font-size:40px;
+    letter-spacing:-0.05em;
+  }
+  ul{
+    margin-left:40px;
+    font-size:19px;
+    color:#FFFFFF;
+  }
+  li{
+    margin-bottom:2px;
+    line-height:40px;
+  }
+  li::marker{
+    font-size:1.9rem;
+    color:#61DAFB;
+  }
